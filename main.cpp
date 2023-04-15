@@ -229,7 +229,7 @@ public car
    }
    void display()
    {
-      cout<<setw(60)<<"\t" GRN "--------------------------------DETAILS OF SUV CARS--------------------------" RESET "\n\n";
+      cout<<setw(60)<<"\t" GRN "-------------------------------DETAILS OF SUV CARS--------------------------" RESET "\n\n";
       cout<<left<<setw(20)<<"";
       cout<<"_________\n";
       cout<<left<<setw(20)<<"";
